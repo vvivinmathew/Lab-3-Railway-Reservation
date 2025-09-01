@@ -28,10 +28,7 @@ their tickets.
 <img width="1263" height="840" alt="11 (3)" src="https://github.com/user-attachments/assets/aaccf732-814e-4f0f-bed3-a794e2c0c53e" />
 
 
-
 ##ACTIVITY
-
-
 
 <img width="1285" height="786" alt="11 (2)" src="https://github.com/user-attachments/assets/b0f4364c-ea45-4c10-86d1-f105dabaa207" />
 
@@ -46,9 +43,8 @@ their tickets.
 
 ##PAKAGE
 
-<img width="611" height="453" alt="11" src="https://github.com/user-attachments/assets/ffca1fdd-23ea-4071-ac34-2318b3490089" />
 
-
+<img width="621" height="440" alt="11 (7)" src="https://github.com/user-attachments/assets/7554bf0a-0703-4489-8f2f-adab37ba23c2" />
 
 
 
